@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="Capa.png" width="100%">
+  <img alt="" src="/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
