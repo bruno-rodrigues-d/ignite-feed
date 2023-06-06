@@ -24,4 +24,4 @@ Figma: https://www.figma.com/community/file/1113573231685349036/Ignite-Feed
 
 ---
 
-Feito por Bruno Rodrigues feat. RocketSeat
+Feito por Bruno Rodrigues feat. [Rocketseat](https://rocketseat.com.br)
