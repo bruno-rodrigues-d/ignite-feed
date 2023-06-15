@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - ReactJS
 
-## 🚧 Projeto - Em construção:
+## 💻 Projeto:
 
 1° projeto do módulo de ReactJS do curso Ignite.
 
